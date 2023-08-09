@@ -1,0 +1,6 @@
+1. First intialize the project in the working directory -> git init
+2. To add untracked files or modified files -> git add filename
+3. To config username and email
+    git config --global user.name "Bhupendra1995"
+    git config --global user.email "rathore.bhupendra1995@gmail.com"
+
